@@ -10,4 +10,5 @@ class JaegerServerApplicationTests {
 	void contextLoads() {
 	}
 
+
 }
